@@ -1,3 +1,5 @@
+RUN WITHOUT SKYTILS AS IT INTERVENES IN API FUNCTINING
+
 AH FLIPPER:
 -Open gui -> /moneymoment ah
 -Enable AH Flipper -> Set key in controls
