@@ -14,5 +14,8 @@ BAZAAR FLIPPER:
 
 /moneymoment help -> For list of all commands
 
+Showcase:
+https://www.youtube.com/watch?v=gOskGzD7emk
+
 ![image](https://user-images.githubusercontent.com/100382934/160827115-40e28828-48af-4261-a692-ccfd836e04ae.png)
 
